@@ -15,6 +15,7 @@ class linked_list:
     # Método para verificar si la estructura de datos esta vacia
     def is_empty(self):
         return self.head == None
+    
 
     # Método para agregar elementos al final de la linked list
     def add_at_end(self, data):
