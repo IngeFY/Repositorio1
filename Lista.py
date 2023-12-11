@@ -16,6 +16,7 @@ class linked_list:
     def is_empty(self):
         return self.head == None
     
+    
 
     # Método para agregar elementos al final de la linked list
     def add_at_end(self, data):
